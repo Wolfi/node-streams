@@ -1,0 +1,1 @@
+Adding lines to this file will stream them directly to the response socket. E.g. `echo "Hello there" >> streamdata`
